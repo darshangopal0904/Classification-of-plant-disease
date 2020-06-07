@@ -1,0 +1,30 @@
+The dataset contains images of 26 Diseases, gathered off the internet. The photos are under the size of 300K. 
+I know I found my project – image recognition– later making also a mobile app for it, that would recognize which 
+of the plants I encounter are affected by diseases, and also offer information on what to do next. The 26 diseases are
+1.	Apple scab
+2.	Apple Blackrot
+3.	Cedar Apple rust
+4.	Cherry Powdery mildew
+5.	Corn Cercospora leaf spot
+6.	Corn Common Rust
+7.	Corn Northern Leaf Blight
+8.	Grape Blackrot
+9.	Grape Esca
+10.	Grape Leaf Blight
+11.	Orange Haunglongbing
+12.	Peach Bacterialspot
+13.	Pepper Bell Bacterialspot
+14.	Potato Early Blight
+15.	Potato Late Blight
+16.	Squash Powdery mildew
+17.	Strawberry Leaf scorch
+18.	Tomato Bacterialspot
+19.	Tomato Early Blight
+20.	Tomato Late Blight
+21.	Tomato Leaf Mold
+22.	Tomato Septoria leaf spot
+23.	Tomato Spider mites
+24.	Tomato Target Spot
+ 
+25.	Tomato Mosaic Virus
+26.	Tomato Yellow Leaf Curl Virus
